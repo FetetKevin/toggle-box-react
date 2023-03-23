@@ -1,0 +1,33 @@
+body {
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.boite {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 150px;
+    width: 150px;
+    border-radius: 7px;
+}
+
+/* .black {
+    border: 1px solid #fff;
+    background-color: #111;
+    color: #fff;
+}
+
+.white {
+    border: 1px solid #111;
+    background-color: #fff;
+    color: #111;
+} */
